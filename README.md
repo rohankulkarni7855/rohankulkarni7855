@@ -47,7 +47,7 @@ I'm a Computer Engineering student passionate about Cybersecurity, Network Secur
 
 ### AIDefenseX
 
-AI-Based Intrusion Detection and Prevention System (IDPS)
+AI-Based Intrusion Detection System and Intrusion Prevention System (IDS/IPS)
 
 Features:
 - Machine Learning Based Threat Detection
